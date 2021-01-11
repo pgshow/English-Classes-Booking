@@ -12,8 +12,8 @@ from fake_useragent import UserAgent
 ua = UserAgent(path="fake_useragent_0.1.11")
 
 INTERVAL = 30  # 通知间隔时间，单位秒
-UID = "1035185"  # 用户ID
-COID = "1003468"  # 套餐ID
+UID = "1000185"  # 用户ID
+COID = "1003400"  # 套餐ID
 
 # 老师数据初始化
 TEACHERS = {

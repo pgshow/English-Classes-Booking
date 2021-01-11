@@ -5,9 +5,9 @@ import datetime
 import json
 import http.cookiejar
 
-USERNAME = "18008769096"
-PASSWORD = "qwerty"
-UID = "1830185"  # 用户ID
+USERNAME = "18008760096"
+PASSWORD = "password"
+UID = "1000185"  # 用户ID
 COID = "1003468"  # 套餐ID
 
 
