@@ -1,0 +1,9 @@
+#LWP-Cookies-2.0
+Set-Cookie3: .ASPXANONYMOUS="g7i3U52b1gEkAAAAOGQ0NzZjMzAtMjIyMS00MDk3LTk2MDAtZTc5OTRjZGEwMDJlyauWgGVuzlMtobgRItCwp7D5-1DDXmx3qxHfHYIVghE1"; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-10-06 04:58:27Z"; HttpOnly=None; version=0
+Set-Cookie3: .web_cookie=9D3023410F24339112BFA83AA0D6E84BA354FDBF2DA858A22725223CCC02A3CDF475D5C53C452AFAE2F88DD29A9E3FE175EAA56C2D2387C09F56B48F2D91940E08D462D1D93CADB203777AD7F9E4BF0DE30B0A898B2BD86FE2F49EC77E3CD9E83AF35AEE05408799D7CCF6DA6A75769CB0097076B8099CA68154AA5D1185C8ACA592E946358D3319E8CEC671AF9BCBA6; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-08-04 18:18:27Z"; HttpOnly=None; SameSite=Lax; version=0
+Set-Cookie3: _AcadsocMemory="37+Jy6Oze5R2e0nW0e3q86MOEkvD8/dZM+DJnlY2tCBYNgxkMWYRwLZMesBTQawJ+i2iC3ME4ZhVWiQW9UfeC/s1jfr9Q8vdYlu8LLV4Ry3dsvO+do/t0TmS30xRQHxxe6sPOHX05PolQc+nR5wT5wAxLy6hixPt0a7zJg3OmrY="; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-10-28 18:18:27Z"; version=0
+Set-Cookie3: _Automation=ECB2662969931440B519F0E6C803C4FF; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-10-28 18:18:27Z"; version=0
+Set-Cookie3: _PhoneMemory=DAAE6F2DA3F890586505C82DEFEBFF86; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-10-28 18:18:27Z"; version=0
+Set-Cookie3: _Uid=DC56D3EB476C32F9; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-07-29 18:18:27Z"; version=0
+Set-Cookie3: acs_session_id=37ad9a55b5214ef3880d4ecfac1848dc; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-07-28 18:23:27Z"; version=0
+Set-Cookie3: acw_tc=0125239615959603048415968eb0e6ead48f4f72916f6b46d0047ae150; path="/"; domain="www.acadsoc.com.cn"; path_spec; expires="2020-07-28 18:48:24Z"; HttpOnly=None; version=0

@@ -1,0 +1,12 @@
+$def with (teacher_name, time, result)
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no">
+</head>
+<body>
+$if teacher_name:
+    <span style="font-size:2rem"><strong>$teacher_name</strong><br />[$time]<br />$result</span>
+$else:
+    <em>Hello</em>, world!
+</body>
+</html>

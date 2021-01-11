@@ -1,0 +1,23 @@
+$def with (teacher_id, teacher_name, time)
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no">
+</head>
+<body>
+$if teacher_id:
+    <form action="/lesson" method="get">
+        <span style="font-size:2rem">你确定要预订 <br /><strong>$teacher_name</strong> 在 <br />[$time] 的课么？</span>
+        <div style="text-align:center;line-height: 40px;height: 40px;">
+            <input type="radio" name="tool_no" id="classin" value="7" checked><label for="classin">Classin</label>&nbsp&nbsp&nbsp<input type="radio" name="tool_no" id="skype" value="2"><label for="skype">Skype</label>
+        </div>
+        <input name="tid" type="hidden" value="$teacher_id" />
+        <input name="teacher_name" type="hidden" value="$teacher_name" />
+        <input name="time" type="hidden" value="$time" />
+        <input name="action" type="hidden" value="book" />
+        <input name="confirm" type="hidden" value="yes" />
+        <div style="text-align:center"><input type="submit" value="Yes" style="width:40%; height:4rem;"></div>
+    </form>
+$else:
+    <em>Hello</em>, world!
+</body>
+</html>
